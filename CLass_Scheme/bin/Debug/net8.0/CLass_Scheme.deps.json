@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CLass_Scheme/1.0.0": {
+        "runtime": {
+          "CLass_Scheme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CLass_Scheme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

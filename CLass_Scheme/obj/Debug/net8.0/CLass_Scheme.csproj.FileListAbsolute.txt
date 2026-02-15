@@ -1,0 +1,14 @@
+C:\Users\Guille\source\repos\CLass_Scheme\obj\Debug\net8.0\CLass_Scheme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guille\source\repos\CLass_Scheme\obj\Debug\net8.0\CLass_Scheme.AssemblyInfoInputs.cache
+C:\Users\Guille\source\repos\CLass_Scheme\obj\Debug\net8.0\CLass_Scheme.AssemblyInfo.cs
+C:\Users\Guille\source\repos\CLass_Scheme\obj\Debug\net8.0\CLass_Scheme.csproj.CoreCompileInputs.cache
+C:\Users\Guille\source\repos\CLass_Scheme\bin\Debug\net8.0\CLass_Scheme.exe
+C:\Users\Guille\source\repos\CLass_Scheme\bin\Debug\net8.0\CLass_Scheme.deps.json
+C:\Users\Guille\source\repos\CLass_Scheme\bin\Debug\net8.0\CLass_Scheme.runtimeconfig.json
+C:\Users\Guille\source\repos\CLass_Scheme\bin\Debug\net8.0\CLass_Scheme.dll
+C:\Users\Guille\source\repos\CLass_Scheme\bin\Debug\net8.0\CLass_Scheme.pdb
+C:\Users\Guille\source\repos\CLass_Scheme\obj\Debug\net8.0\CLass_Scheme.dll
+C:\Users\Guille\source\repos\CLass_Scheme\obj\Debug\net8.0\refint\CLass_Scheme.dll
+C:\Users\Guille\source\repos\CLass_Scheme\obj\Debug\net8.0\CLass_Scheme.pdb
+C:\Users\Guille\source\repos\CLass_Scheme\obj\Debug\net8.0\CLass_Scheme.genruntimeconfig.cache
+C:\Users\Guille\source\repos\CLass_Scheme\obj\Debug\net8.0\ref\CLass_Scheme.dll
